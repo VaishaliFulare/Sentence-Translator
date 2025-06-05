@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-text {
+    background-color: darkorange;
+    height: 15vh;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputfield {
+    height: 20vh;
+    margin-top: 20px;
+    width: 80%;
+}
+
+.inputcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.translatebtn {
+    height: 5vh;
+    width: 40%;
+    background-color: darkorange;
+    border-radius: 20px;
+    margin-top: 20px;
+}
